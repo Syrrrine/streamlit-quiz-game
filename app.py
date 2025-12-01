@@ -83,4 +83,4 @@ if st.button("Submit"):
     if st.session_state.index >= len(questions):
         st.session_state.finished = True
 
-    st.experimental_rerun()
+    st.rerun()
