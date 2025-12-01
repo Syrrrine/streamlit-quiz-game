@@ -1,0 +1,50 @@
+1;2;What is the capital of France?;Rome;Paris;Berlin
+2;3;Which planet is known as the Red Planet?;Venus;Earth;Mars
+3;1;Who wrote the play Romeo and Juliet?;William Shakespeare;J.K. Rowling;Mark Twain
+4;2;What is the name of the fictional wizarding school in Harry Potter?;Warthogs;Hogwarts;Frogworts
+5;3;Which animal is known as the King of the Jungle?;Elephant;Horse;Lion
+6;1;What is the tallest mountain in the world?;Mount Everest;K2;Mount Kilimanjaro
+7;2;Who is known as the "Queen of Pop"?;Britney Spears;Madonna;Lady Gaga
+8;3;What is the name of the toy cowboy in Toy Story?;Zorro;Buzz Lightyear;Woody
+9;1;In which city would you find the Eiffel Tower?;Paris;London;New York
+10;2;Which superhero is known as the "Caped Crusader"?;Superman;Batman;Spider-Man
+11;3;What is the name of the coffee shop in the TV show Friends?;Bean There Brew That;Cuppa Joe;Central Perk
+12;1;Which singer is known as the "Material Girl"?;Madonna;Beyonce;Taylor Swift
+13;2;In which country would you find the Great Barrier Reef?;USA;Australia;Canada
+14;3;What's the name of the river that runs through Egypt?;Amazon;Mississippi;Nile
+15;1;Who is the author of the novel "The Great Gatsby"?;F. Scott Fitzgerald;Ernest Hemingway;Mark Twain
+16;2;Which animal is the symbol of WWF (World Wildlife Fund)?;Elephant;Panda;Tiger
+17;3;Who painted the Mona Lisa?;Vincent van Gogh;Pablo Picasso;Leonardo da Vinci
+18;1;What is the capital of Japan?;Tokyo;Seoul;Beijing
+19;2;Which superhero is known as the "Man of Steel"?;Iron Man;Superman;Batman
+20;3;Which fruit is known as the "king of fruits" and is famous for its odor?;Apple;Orange;Durian
+21;2;What is the name of the fictional African country in Black Panther?;Zamunda;Wakanda;Elbonia
+22;1;Who is known as the "King of Rock and Roll"?;Elvis Presley;Michael Jackson;Bob Dylan
+23;3;Which planet is known as the "Ringed Planet"?;Mercury;Venus;Saturn
+24;2;What's the title of the song by Queen that lasts more than six minutes and was released in 1975?;Thriller;Bohemian Rhapsody;Stairway to Heaven
+25;1;Which city is known as the "Big Apple"?;New York;Los Angeles;Chicago
+26;2;Who played Jack Dawson in the movie Titanic?;Robert Pattinson;Leonardo DiCaprio;Johnny Depp
+27;3;Which company is known for creating the video game Super Mario?;Sega;Microsoft;Nintendo
+28;1;What is the name of the dog in the cartoon Scooby-Doo?;Scooby;Scrappy;Snoopy
+29;2;In which year did the Titanic sink?;1910;1912;1914
+30;3;Who is the author of the Harry Potter series?;Stephen King;Suzanne Collins;J.K. Rowling
+31;1;What is the name of the fairy in Peter Pan?;Tinker Bell;Fairy Godmother;Blue Fairy
+32;2;Which movie features a character named Simba?;The Jungle Book;The Lion King;Tarzan
+33;3;Which city is famous for its leaning tower?;Rome;Madrid;Pisa
+34;2;Who is known as the "Queen of Soul"?;Diana Ross;Aretha Franklin;Whitney Houston
+35;1;Which country is known as the Land of the Rising Sun?;Japan;China;Korea
+36;2;Who is the fastest man alive?;Usain St. Leo Bolt;Michael Phelps;Lionel Messi
+37;3;Which element is represented by the symbol 'O' on the periodic table?;Hydrogen;Carbon;Oxygen
+38;1;What is the name of the pirate in Peter Pan?;Captain Hook;Captain Crunch;Captain Morgan
+39;2;Which planet is the closest to the Sun?;Earth;Mercury;Venus
+40;3;Who wrote the novel "To Kill a Mockingbird"?;John Steinbeck;Ernest Hemingway;Harper Lee
+41;1;Which fruit is known as the "queen of fruits"?;Mango;Apple;Banana
+42;2;Who is the author of "Pride and Prejudice"?;Emily Bronte;Jane Austen;Charles Dickens
+43;3;Which country is known as the "Land Down Under"?;New Zealand;South Africa;Australia
+44;2;Who played the character of Jack Dawson in the film Titanic?;Brad Pitt;Leonardo DiCaprio;Tom Cruise
+45;1;Which city is famous for its canals and gondolas?;Venice;Paris;Amsterdam
+46;2;Who is known as the "King of Pop"?;Elvis Presley;Michael Jackson;Justin Bieber
+47;3;What is the capital of Canada?;Toronto;Vancouver;Ottawa
+48;1;Which animal is known for its unique black and white coloration?;Panda;Elephant;Kangaroo
+49;2;Who is the Greek god of love?;Hermes;Aphrodite;Athena
+50;3;What is the largest ocean on Earth?;Atlantic Ocean;Indian Ocean;Pacific Ocean
