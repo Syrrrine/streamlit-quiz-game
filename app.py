@@ -53,6 +53,23 @@ if "index" not in st.session_state:
     st.session_state.score = 0
     st.session_state.finished = False
 
+if "player_name" not in st.session_state:
+    st.session_state.player_name = ""
+
+# Ask for player name before starting
+if st.session_state.player_name == "":
+    st.header("Welcome to the Quiz 🎮")
+    name = st.text_input("Enter your name to start the game:")
+
+    if st.button("Start"):
+        if name.strip() == "":
+            st.error("Please enter a valid name.")
+        else:
+            st.session_state.player_name = name
+            st.rerun()
+
+    st.stop()  # Stop the app until a valid name is entered
+
 # If game finished
 if st.session_state.finished:
     st.success(f"Your final score: {st.session_state.score}/{len(questions)} 🎉")
