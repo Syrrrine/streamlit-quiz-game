@@ -72,7 +72,7 @@ if st.session_state.player_name == "":
 
 # If game finished
 if st.session_state.finished:
-    st.success(f"Your final score: {st.session_state.score}/{len(questions)} 🎉")
+    st.success(f"{st.session_state.player_name}, your final score is {st.session_state.score}/{len(questions)} 🎉")
     if st.button("Play again"):
         st.session_state.index = 0
         st.session_state.score = 0
